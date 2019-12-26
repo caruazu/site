@@ -51,8 +51,8 @@
 
 | cor      | triádicas | triádicas | Complementar |
 | -------- | --------- | --------- | ------------ |
-| #B71C1C  | #B7B71C   | #1CB71C   | #1CB7B7      |
-| #00BCD4  | #B596F3   | \#E888D7  | \#ff6640     |
+| \#B71C1C  | #B7B71C   | #1CB71C   | #1CB7B7      |
+| \#00BCD4  | #B596F3   | \#E888D7  | \#ff6640     |
 | \#FFECB3 | #C6FFB3   | #B3FFEC   | #B3C6FF      |
 
 #### Preto e branco
@@ -82,10 +82,25 @@
 
 ### Título
 
+Anton
+Coda
+Work Sans
+
 ### Subtítulos
+
+Nunito
+Rubik
+Work Sans
 
 ### corpo
 
+Nunito
+Roboto
+Raleway
+
 ### legenda
+
+Raleway
+
 
 ### botão
